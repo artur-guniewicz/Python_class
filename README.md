@@ -6,5 +6,6 @@ A place to insert Python exercises for class
 2. Zestaw 3
 3. Zestaw 4
 4. Zestaw 5
+5. Zestaw 6
 
 More tasks will be added soon.
