@@ -10,5 +10,6 @@ A place to insert Python exercises for class
 6. Zestaw 7
 7. Zestaw 8
 8. Zestaw 9
+9. Zestaw 10
 
 More tasks will be added soon.
