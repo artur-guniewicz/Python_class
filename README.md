@@ -12,5 +12,6 @@ A place to insert Python exercises for class
 8. Zestaw 9 - data structures
 9. Zestaw 10 - abstract data types
 10. Zestaw 11 - sorting
+11. Zestaw 12 - searching
 
 More tasks will be added soon.
